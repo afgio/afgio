@@ -1,4 +1,3 @@
-<img src="https://iili.io/mWFWVR.png">
 <br/>
 
 ### <div align="center">Hi, bonjour, hola 👋 ... I'm Antonio, a GTM outbound specialist curious about web development and blockchain</div>  
