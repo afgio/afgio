@@ -1,13 +1,10 @@
 <img src="https://iili.io/mWFWVR.png">
 <br/>
 
-### <div align="center">Hi, bonjour, hola 👋 ... I'm Antonio, a web developer passionate about building responsive websites.</div>  
+### <div align="center">Hi, bonjour, hola 👋 ... I'm Antonio, a GTM outbound specialist curious about web development and blockchain</div>  
 <br/>  
 
 - 🧑‍🎓 I'm an alumnus of the [Chainshot Bootcamp](https://www.chainshot.com/), predecessor to [Alchemy University](https://university.alchemy.com/)
-
-
-- 🌱 At the moment, I'm Building React and Tailwind. I'm also reading [Code](https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)  
   
 
 - 👨‍🏫 Previously, I was a school teacher specializing in languages and history  
